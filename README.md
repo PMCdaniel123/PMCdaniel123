@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PMCdaniel123&label=Profile%20views&color=0e75b6&style=flat" alt="PMCdaniel123" /> </p>
+
 I will be strive to become a good front-end developer who has strong passion with React!!!
 
 * 🌍  I'm based in Ho Chi Minh City
