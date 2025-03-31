@@ -8,9 +8,9 @@ Front-end Developer
 
 I will be strive to become a good front-end developer who has strong passion with React!!!
 
-* 🌍  I'm based in Ho Chi Minh City
+* 🌍  I'm based in Thu Duc, Ho Chi Minh City
 * ✉️  You can contact me at [cuongpham.251203@gmail.com](mailto:cuongpham.251203@gmail.com)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning ReactJS, NextJS and NodeJS
 * 🤝  I'm open to collaborating on my projects
 * ⚡  Happy to see you :)))
 
