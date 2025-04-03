@@ -6,7 +6,7 @@ Front-end Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PMCdaniel123&label=Profile%20views&color=0e75b6&style=flat" alt="PMCdaniel123" /> </p>
 
-I will be strive to become a good front-end developer who has strong passion with React!!!
+I will be strive to become a good front-end developer who has strong passion with ReactJS and NextJS. Moreover, I aspire to take on more responsibilities in leading FE projects and eventually grow into a full-stack developer role!!!
 
 * 🌍  I'm based in Thu Duc, Ho Chi Minh City
 * ✉️  You can contact me at [cuongpham.251203@gmail.com](mailto:cuongpham.251203@gmail.com)
